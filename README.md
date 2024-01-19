@@ -1,3 +1,3 @@
 # demo
 my first Git repository
-Author: Pavan
+Author: Pavan SG
